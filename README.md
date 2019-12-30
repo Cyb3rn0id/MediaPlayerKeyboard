@@ -1,4 +1,4 @@
-# MediaPlayerKeyboard  
+# Media Player Keyboard  
 
 ![Media Player Keyboard](image.jpg)  
 
