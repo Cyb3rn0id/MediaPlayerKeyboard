@@ -9,5 +9,5 @@ Please: if you realize this project, send me some pictures so I'll include them 
 ### Links  
 - This project was featured on Hackaday [here](https://hackaday.com/2019/12/22/arcade-buttons-make-a-great-multimedia-keyboard/)
 - Here the link to original article [IT](https://www.settorezero.com/wordpress/una-tastiera-usb-con-controlli-per-i-media-players-con-arduino-leonardo/) [EN](https://www.settorezero.com/wordpress/en/una-tastiera-usb-con-controlli-per-i-media-players-con-arduino-leonardo/)
-- If you want to use same board sa mine, I've used an [Olimexino 32U4 board](https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-32U4/open-source-hardware) (not sponsored!)
+- If you want to use same board as mine, I've used an [Olimexino 32U4 board](https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-32U4/open-source-hardware) (not sponsored!)
 - [Video](https://www.youtube.com/watch?v=w8B4z93Y1LE)
